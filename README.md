@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-on-Electic-Vehicles-Dataset-using-Python
-Exploratory Data Analysis (EDA) on Electic Vehicles Populatoin Dataset (State of Washington) using Python 
+# Exploratory Data Analysis on Electric Vehicles Dataset using Python
+Exploratory Data Analysis (EDA) on Electric Vehicles Population Dataset (State of Washington) using Python 
